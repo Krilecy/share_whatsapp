@@ -1,3 +1,5 @@
+Forked to use mime 2.0.0.
+
 # Share Whatsapp Plugin
 
 [![pub package](https://img.shields.io/pub/v/share_whatsapp.svg)](https://pub.dartlang.org/packages/share_whatsapp)
