@@ -1,4 +1,4 @@
-<span style="color:red">Forked to use mime 2.0.0</span>.
+⚠️**Forked to use mime 2.0.0**⚠️
 
 # Share Whatsapp Plugin
 
